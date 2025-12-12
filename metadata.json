@@ -1,0 +1,5 @@
+{
+  "name": "Direct Dialer",
+  "description": "A simple web application to quickly dial phone numbers using popular communication apps like WhatsApp, Viber, Google Voice, or your phone's native dialer.",
+  "requestFramePermissions": []
+}
